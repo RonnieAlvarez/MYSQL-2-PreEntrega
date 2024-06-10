@@ -1,15 +1,10 @@
 
 
-![1](images\1.png)
+![1](https://github.com/RonnieAlvarez/MYSQL-2-PreEntrega/blob/main/images/1.png)
 
 
+![2](https://github.com/RonnieAlvarez/MYSQL-2-PreEntrega/blob/main/images/2.png)
 
 
+![3](https://github.com/RonnieAlvarez/MYSQL-2-PreEntrega/blob/main/images/3.png)
 
-
-
-![2](images\2.png)
-
-
-
-![3](images\3.png)
